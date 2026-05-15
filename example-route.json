@@ -1,0 +1,60 @@
+{
+  "routeName": "Bhubaneswar to New Delhi",
+  "createdAt": "2026-05-15T00:00:00Z",
+  "waypoints": [
+    {
+      "id": 1,
+      "latitude": 20.2961,
+      "longitude": 85.8245,
+      "name": "WP 1"
+    },
+    {
+      "id": 2,
+      "latitude": 21.0973,
+      "longitude": 83.9891,
+      "name": "WP 2"
+    },
+    {
+      "id": 3,
+      "latitude": 22.5726,
+      "longitude": 82.3601,
+      "name": "WP 3"
+    },
+    {
+      "id": 4,
+      "latitude": 23.3441,
+      "longitude": 80.4568,
+      "name": "WP 4"
+    },
+    {
+      "id": 5,
+      "latitude": 24.5854,
+      "longitude": 78.3694,
+      "name": "WP 5"
+    },
+    {
+      "id": 6,
+      "latitude": 26.0034,
+      "longitude": 76.9282,
+      "name": "WP 6"
+    },
+    {
+      "id": 7,
+      "latitude": 27.1767,
+      "longitude": 77.1025,
+      "name": "WP 7"
+    },
+    {
+      "id": 8,
+      "latitude": 28.6139,
+      "longitude": 77.2090,
+      "name": "WP 8"
+    }
+  ],
+  "metadata": {
+    "totalDistance": 1287.45,
+    "estimatedTime": 1287.45,
+    "waypointCount": 8,
+    "units": "km"
+  }
+}
